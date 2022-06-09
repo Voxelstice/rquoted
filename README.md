@@ -1,5 +1,5 @@
 # rquoted
-The peak of entertainment
+The peak of entertainment (this is a bot that does randomized quotes n stuff)
 
 Made with discord.js and node.js
 
