@@ -1,0 +1,68 @@
+{
+    "token" : "YOUR_TOKEN_HERE"
+    "userId" : 0,
+    "quotes" : {
+        "word1" : [
+            "DANGER",
+            "WARNING",
+            "ATTENTION",
+            "NOTE",
+            "ALERT",
+            "ALERTA",
+            "ALERTA!!!!!!!!!!",
+            "BREAKING NEWS"
+        ],
+        "word2" : [
+            "vvv331",
+            "ugnius991",
+            "Natsumi",
+            "cheese",
+            "Someone",
+            "ACG",
+            "Impasta",
+            "local crewmate",
+            "an entity",
+            "announcer",
+            "QS",
+            "You",
+            "ziltic",
+            "sink salesman",
+            "nikothegamer",
+            "A scientist",
+            "A noob",
+            "0.3",
+            "Comet Industries",
+            " "
+        ],
+        "word3" : [
+            "ate food",
+            "saw a lifeform",
+            "experienced technical difficulties",
+            "vented",
+            "is sus",
+            "caught in 4k",
+            "tampered with spare parts",
+            "got demoted",
+            "got promoted",
+            "is sleeping",
+            "got fake",
+            "is fired",
+            "combusted",
+            "became hostile",
+            "lost their wallet",
+            "was kidnapped",
+            "vanished",
+            "died",
+            "oofed",
+            "drowned",
+            "went bankrupt",
+            "added security",
+            "fell into the coolant panel",
+            "saw a news ticker",
+            "has a meeting",
+            "became food",
+            "went into backrooms",
+            " "
+        ]
+    }
+}
