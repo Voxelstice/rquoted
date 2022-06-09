@@ -4,7 +4,7 @@ The peak of entertainment
 Made with discord.js and node.js
 
 # Setup
-Easy-peasy to set up. Be sure you have [Git](https://git-scm.com/downloads) installed.
+Easy-peasy to set up. Be sure you have [Git](https://git-scm.com/downloads) and node.js installed.
 
 First, you have to set up a few stuff in the config.json file. Token and userId are the most necessary ones. I won't explain how to do it here.
 
