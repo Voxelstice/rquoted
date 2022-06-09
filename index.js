@@ -40,3 +40,10 @@ client.on('messageCreate', message => {
 
 //client.login(process.env['token']); // This is for if you are using a service like repl.it
 client.login(config.token);
+
+const express = require('express');
+const app = express();
+const port = 3000;
+
+app.get('/', (req, res) => res.send(''));
+app.listen(port);
