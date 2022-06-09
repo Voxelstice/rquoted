@@ -16,6 +16,7 @@ client.once('ready', () => {
   activityLoop();
 });
 
+// shut up about this i wont use slash commands, if this bot gets popular then i will
 client.on('messageCreate', message => {
     if (message.author.id == config.userId) { return }
 
