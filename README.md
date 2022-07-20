@@ -1,3 +1,6 @@
+# WARNING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+This bot uses discord.js v13, v14 introduced some changes that may break the existing code.
+
 # rquoted
 The peak of entertainment (this is a bot that does randomized quotes n stuff)
 
